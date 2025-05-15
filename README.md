@@ -1,1 +1,1 @@
-![Our BIMI logo](https://raw.githubusercontent.com/<your-username>/bimi-logo/main/bimilogo.svg)
+![Our BIMI logo](https://github.com/Sapaliga85/bimilogo/blob/main/bimilogo.svg)
